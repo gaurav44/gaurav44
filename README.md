@@ -20,5 +20,6 @@ Graduated: 2024
 - Scientific Computing
 - Machine Learning
 
-![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=gaurav44&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav44&layout=donut)](https://github.com/gaurav44/github-readme-stats)
+
 
