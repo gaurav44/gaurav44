@@ -22,6 +22,7 @@ Graduated: 2019
 ## Interests
 - High-Performance Computing
 - Scientific Computing
+- Computational Fluid Dynamics
 - Machine Learning
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav44&layout=donut)](https://github.com/gaurav44/github-readme-stats)
