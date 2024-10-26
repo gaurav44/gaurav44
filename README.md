@@ -1,6 +1,10 @@
 # Hi there! I'm Gaurav Gokhale 👋
 I'm a recent graduate in Computational Science and Engineering from TUM (Technical University of Munich), passionate about developing efficient algorithms and leveraging high-performance computing for scientific applications.
 
+<div align="center">
+  <img width="800" height="492" src="videos/droplet.gif">
+</div>
+
 ## Skills
 - **Programming Languages**: C++, Python, CUDA, MATLAB
 - **Frameworks & Libraries**: Kokkos, Eigen, Petsc, Kratos/CoSimIO
