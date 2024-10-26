@@ -11,6 +11,10 @@ I'm a recent graduate in Computational Science and Engineering from TUM (Technic
 Technical University of Munich (TUM)  
 Graduated: 2024  
 
+**B.E in Mechanical Engineering**  
+Pune University
+Graduated: 2019 
+
 ## Get in Touch
 - [LinkedIn](https://www.linkedin.com/in/gaurav-gokhale/)
 - Email: gauravgokhale752@gmail.com
