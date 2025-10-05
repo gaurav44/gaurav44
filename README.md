@@ -1,5 +1,4 @@
-# Hi there! I'm Gaurav Gokhale 👋
-I'm a recent graduate in Computational Science and Engineering from TUM (Technical University of Munich), passionate about developing efficient algorithms and leveraging high-performance computing for scientific applications.
+Hi, I’m Gaurav 👋 — a Software Developer at DCS Computing GmbH with a strong focus on C++ and GPU computing. I hold an M.Sc. in Computational Science and Engineering from TUM, where I developed a deep passion for high-performance and scientific computing.
 
 <div align="center">
   <img width="800" height="492" src="droplet.gif">
@@ -27,7 +26,6 @@ Graduated: 2019
 - High-Performance Computing
 - Scientific Computing
 - Computational Fluid Dynamics
-- Machine Learning
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav44&layout=donut)](https://github.com/gaurav44/github-readme-stats)
 
